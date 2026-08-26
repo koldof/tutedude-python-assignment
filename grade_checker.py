@@ -11,7 +11,3 @@ elif score >= 60:
 else:
     print("Grade: F")
 
-students = {
-    "Alice": 85,
-    "Bob": 92
-}
